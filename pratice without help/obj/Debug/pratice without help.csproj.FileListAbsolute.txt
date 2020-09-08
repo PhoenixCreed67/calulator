@@ -1,0 +1,15 @@
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\obj\Debug\pratice without help.csprojAssemblyReference.cache
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\obj\Debug\MainWindow.g.cs
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\obj\Debug\App.g.cs
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\obj\Debug\pratice without help_MarkupCompile.cache
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\obj\Debug\pratice without help_MarkupCompile.lref
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\bin\Debug\pratice without help.exe.config
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\bin\Debug\pratice without help.exe
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\bin\Debug\pratice without help.pdb
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\obj\Debug\MainWindow.baml
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\obj\Debug\pratice without help.g.resources
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\obj\Debug\pratice_without_help.Properties.Resources.resources
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\obj\Debug\pratice without help.csproj.GenerateResource.cache
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\obj\Debug\pratice without help.csproj.CoreCompileInputs.cache
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\obj\Debug\pratice without help.exe
+C:\Users\maconrm180\Desktop\quinten ellsworth\pratice without help\obj\Debug\pratice without help.pdb
